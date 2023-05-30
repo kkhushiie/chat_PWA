@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chat_PWA/static/css/main.5a8c3858.css",
+    "main.js": "/chat_PWA/static/js/main.598e3272.js",
+    "static/js/787.64b197b2.chunk.js": "/chat_PWA/static/js/787.64b197b2.chunk.js",
+    "static/media/pfp.png": "/chat_PWA/static/media/pfp.87e32e3dfbea00694569.png",
+    "index.html": "/chat_PWA/index.html",
+    "main.5a8c3858.css.map": "/chat_PWA/static/css/main.5a8c3858.css.map",
+    "main.598e3272.js.map": "/chat_PWA/static/js/main.598e3272.js.map",
+    "787.64b197b2.chunk.js.map": "/chat_PWA/static/js/787.64b197b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8c3858.css",
+    "static/js/main.598e3272.js"
+  ]
+}
