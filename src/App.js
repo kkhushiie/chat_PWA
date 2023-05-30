@@ -8,10 +8,6 @@ import Message from "./Components/Message"
 import Data from "./Components/Data"
 import Header from "./Components/Header"
 import Line from "./Components/Line"
-
-
-
-
 function App() {
   
   const [chats, setChats] = useState([]);
